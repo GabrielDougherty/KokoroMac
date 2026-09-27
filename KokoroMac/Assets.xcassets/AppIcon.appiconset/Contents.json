@@ -1,61 +1,61 @@
 {
   "images" : [
     {
-      "filename" : "KokoroMaclogo_16.jpg",
+      "filename" : "KokoroMaclogo_16.png",
       "idiom" : "mac",
       "scale" : "1x",
       "size" : "16x16"
     },
     {
-      "filename" : "KokoroMaclogo_32 1.jpg",
+      "filename" : "KokoroMaclogo_32.png",
       "idiom" : "mac",
       "scale" : "2x",
       "size" : "16x16"
     },
     {
-      "filename" : "KokoroMaclogo_32.jpg",
+      "filename" : "KokoroMaclogo_32.png",
       "idiom" : "mac",
       "scale" : "1x",
       "size" : "32x32"
     },
     {
-      "filename" : "KokoroMaclogo_64.jpg",
+      "filename" : "KokoroMaclogo_64.png",
       "idiom" : "mac",
       "scale" : "2x",
       "size" : "32x32"
     },
     {
-      "filename" : "KokoroMaclogo_128.jpg",
+      "filename" : "KokoroMaclogo_128.png",
       "idiom" : "mac",
       "scale" : "1x",
       "size" : "128x128"
     },
     {
-      "filename" : "KokoroMaclogo_256 1.jpg",
+      "filename" : "KokoroMaclogo_256.png",
       "idiom" : "mac",
       "scale" : "2x",
       "size" : "128x128"
     },
     {
-      "filename" : "KokoroMaclogo_256.jpg",
+      "filename" : "KokoroMaclogo_256.png",
       "idiom" : "mac",
       "scale" : "1x",
       "size" : "256x256"
     },
     {
-      "filename" : "KokoroMaclogo_512 1.jpg",
+      "filename" : "KokoroMaclogo_512.png",
       "idiom" : "mac",
       "scale" : "2x",
       "size" : "256x256"
     },
     {
-      "filename" : "KokoroMaclogo_512.jpg",
+      "filename" : "KokoroMaclogo_512.png",
       "idiom" : "mac",
       "scale" : "1x",
       "size" : "512x512"
     },
     {
-      "filename" : "KokoroMaclogo_1024.jpg",
+      "filename" : "KokoroMaclogo_1024.png",
       "idiom" : "mac",
       "scale" : "2x",
       "size" : "512x512"

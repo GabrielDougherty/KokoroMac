@@ -103,17 +103,11 @@ struct MainView: View {
                 .pickerStyle(.menu)
             }
 
-            VStack(spacing: 1) {
-                Text("2026 Developed by [arinltte](https://github.com/arinltte)")
-                    .font(.system(size: 10))
-                    .foregroundColor(.secondary)
-                    .tint(appSettings.appTheme.accentColor)
-                Text("cjshen00@gmail.com")
-                    .font(.system(size: 10))
-                    .foregroundColor(.secondary)
-                    .tint(appSettings.appTheme.accentColor)
-            }
-            .multilineTextAlignment(.center)
+            Text("Developed by [arinltte](https://github.com/arinltte) · [arinltte00@gmail.com](mailto:arinltte00@gmail.com)")
+                .font(.system(size: 10))
+                .foregroundColor(.secondary)
+                .tint(appSettings.appTheme.accentColor)
+                .multilineTextAlignment(.center)
         }
         .padding(14)
         .frame(width: 250, height: 320)

@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="public/KokoroMaclogo.jpg" alt="KokoroMac Logo" width="64" />
+  <img src="public/KokoroMaclogo.png" alt="KokoroMac Logo" width="64" />
   <br />
   <h1 align="center">KokoroMac</h1>
   <p align="center">Local, Open-Weight Text-to-Speech Studio for Mac.</p>
@@ -92,11 +92,14 @@ To contribute:
 
 To report a bug or request a feature, open an [issue](https://github.com/arinltte/KokoroMac/issues). Please include your macOS version and steps to reproduce for bug reports.
 
-## 📄 License & Acknowledgements
+## 📜 License
 
-The KokoroMac application source code is licensed under the [MIT License](./LICENSE).
+Distributed under the MIT License. See `LICENSE` for more information.
 
-*   **Core TTS Engine:** This application is a graphical wrapper for the incredible [Kokoro TTS](https://github.com/hexgrad/kokoro) model and library, created by `@hexgrad` and contributors. The Kokoro model weights, Python library, and underlying audio data are licensed under the Apache License 2.0.
-*   **Audio Splicing & Pause Pipeline:** The architectural approach for mathematical pause timing, audio trimming, and backend splicing integrated in v0.4.0 was heavily inspired by the community approaches documented in [nazdridoy/kokoro-tts](https://github.com/nazdridoy/kokoro-tts).
+<p align="center">
+  <i>Logo by GUMO · https://www.instagram.com/gumoooo._/</i>
+</p>
 
-We deeply appreciate the open-source AI community for making local inference possible.
+<p align="center">
+  <i>Developed by arinltte · arinltte00@gmail.com</i>
+</p>

@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="public/KokoroMaclogo.jpg" alt="KokoroMac Logo" width="64" />
+  <img src="public/KokoroMaclogo.png" alt="KokoroMac Logo" width="64" />
   <br />
   <h1 align="center">KokoroMac</h1>
   <p align="center">适用于 Mac 的本地化、开放权重文本转语音工作室。</p>
@@ -90,11 +90,14 @@ rm -rf ~/.KokoroMac
 
 要报告错误或请求新功能，请提交 [issue](https://github.com/arinltte/KokoroMac/issues)。对于错误报告，请包含您的 macOS 版本和重现步骤。
 
-## 📄 许可证与致谢
+## 📜 许可证
 
-KokoroMac 应用程序源代码基于 [MIT 许可证](./LICENSE) 授权。
+KokoroMac 基于 MIT 许可证分发。详情请参阅 `LICENSE`。
 
-*   **核心 TTS 引擎：** 本应用是令人惊叹的 [Kokoro TTS](https://github.com/hexgrad/kokoro) 模型和库的图形化封装，由 `@hexgrad` 及贡献者创建。Kokoro 模型权重、Python 库及底层音频数据基于 Apache License 2.0 授权。
-*   **音频拼接与停顿管线：** v0.4.0 中集成的数学级停顿计时、音频裁剪和后端拼接的架构方法，深受 [nazdridoy/kokoro-tts](https://github.com/nazdridoy/kokoro-tts) 中记录的社区方案启发。
+<p align="center">
+  <i>Logo by GUMO · https://www.instagram.com/gumoooo._/</i>
+</p>
 
-我们深深感谢开源 AI 社区让本地推理成为可能。
+<p align="center">
+  <i>Developed by arinltte · arinltte00@gmail.com</i>
+</p>
